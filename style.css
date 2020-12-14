@@ -7,8 +7,8 @@ html {
     scroll-snap-type: y mandatory;
 }
 
-h1 {
-    overflow: hidden;
+body {
+    overflow-x: hidden;
 }
 
 .first {
